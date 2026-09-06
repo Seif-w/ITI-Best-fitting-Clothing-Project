@@ -110,10 +110,9 @@ The visual feature operates at the **category level, not the item level**, due t
 
 | Component | Dataset | Use Case |
 |---|---|---|
-| Fit labels & reviews | Rent the Runway (RTR) / ModCloth | Core fit prediction dataset |
-| Computer Vision | Fashion Product Images (Kaggle) | Category-level visual features |
-| Computer Vision (alt.) | DeepFashion2 | Larger-scale CNN training/fine-tuning, if pursued |
-| NLP (alt./pretraining) | Women's E-Commerce Clothing Reviews | Sentiment & preference reference |
+| Fit labels & reviews | Rent the Runway (RTR) / ModCloth |[ Core fit prediction dataset](https://www.kaggle.com/datasets/rmisra/clothing-fit-dataset-for-size-recommendation?resource=download) |
+| Computer Vision | Fashion Product Images (Kaggle) |[ Category-level visual features ](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small)|
+
 
 ---
 
