@@ -108,7 +108,7 @@ The visual feature operates at the **category level, not the item level**, due t
 
 ## Datasets
 
-| Component | Dataset | Use Case |
+| Component | Dataset | Link |
 |---|---|---|
 | Fit labels & reviews | Rent the Runway (RTR) / ModCloth |[ Core fit prediction dataset](https://www.kaggle.com/datasets/rmisra/clothing-fit-dataset-for-size-recommendation?resource=download) |
 | Computer Vision | Fashion Product Images (Kaggle) |[ Category-level visual features ](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small)|
